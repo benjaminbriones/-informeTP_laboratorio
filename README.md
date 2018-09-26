@@ -17,7 +17,7 @@ introduccion
  - ordenar de manera correcta los equipos mostrando un plano 
  - dar recomendaciones para martener el cuidado y el orden del laboratorio
  
- objetibo principal: modificar y remodelar el estado actual del laboratorio tp del 3-C para un ambiente mas comodo para los alumnos
+ objetibo principal: modificar y remodelar el estado actual del laboratorio tp del 3-C para un ambiente mas comodo para los alumnos y asi evitar problemas a futruro  entre el curso y las futuras generaciones
  
  conclucion
  
