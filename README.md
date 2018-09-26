@@ -3,7 +3,7 @@ nombre: benjamin briones
 
 curso: 3-C
 
-asignatura: soporte
+asignatura: soporte de usuarios
 
 
 introduccion
@@ -15,8 +15,9 @@ introduccion
  objetivos:
  
  - mostrar un orden mas comodo para los amlumnos
- - arobechar el espacio y los materiales de la la manera mas eficiente como tanbien economicamente  
- - ordenar de manera correcta los equipos mostrando un plano 
+ - aprobechar el espacio y los materiales de la la manera mas eficiente como tanbien economicamente  
+ - mostrar un diseño nuevo en un plano
+ - asegurarse que el nuevo diseño no incomode a los alumnos y al profesor(a) 
  - dar recomendaciones para martener el cuidado y el orden del laboratorio
  
  objetibo principal: modificar y remodelar el estado actual del laboratorio tp del 3-C para un ambiente mas comodo y eficiente para los alumnos y asi evitar problemas a futruro  entre el curso y las futuras generaciones
