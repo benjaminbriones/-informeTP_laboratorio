@@ -14,7 +14,7 @@ introduccion
  
  objetivos:
  
- - mostrar un orden mas comodo para los amlumnos
+ - mostrar un orden mas comodo para los amlumnos(a)
  - aprobechar el espacio y los materiales de la la manera mas eficiente como tanbien economicamente  
  - mostrar un diseño nuevo en un plano
  - asegurarse que el nuevo diseño no incomode a los alumnos y al profesor(a) 
@@ -24,7 +24,7 @@ introduccion
  
  diseño
  
- el diseño del laboratorio seria bacicamente el colocar todas las mesas en el lado izquierdo de la sala dejando un pasillo al lado derecho las mesas estarian ordenadas en 4 filas con un total de 5 computadores cada fila, El tema del cableado tambien es importante en este caso el cableado rodearia el laboratorio por las paredes(por la parte de abajo ) dejando el suficiente espacio para conectar los computadores y no estorbar al profesor(a) y a los alumnos    
+ el diseño del laboratorio seria bacicamente el colocar todas las mesas en el lado izquierdo de la sala dejando un pasillo al lado derecho las mesas estarian ordenadas en 4 filas con un total de 5 computadores cada fila, El tema del cableado tambien es importante en este caso el cableado rodearia el laboratorio por las paredes(por la parte de abajo ) dejando el suficiente espacio para conectar los computadores y no estorbar al profesor(a) y a los alumnos(a)    
  
  conclucion
  
